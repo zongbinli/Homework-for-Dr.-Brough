@@ -27,12 +27,13 @@ abstract: In this article, I want to address the problem of what should computat
 
 >  
 
-#Read the paper _What Should Economists Do?_ by James M. Buchanan.
-* His main point is most of the economists are concentrate on the scarce resouces, find the equilibrium,  and distribution. Buchanan think economist think they should foucus on a particular form of human activity, and upon the various institutional arrangements that arise as a result of this form of activity.
 
-* The word "catallatics" means finding the relationship between human activities, and use computational method to solve the problems.
+#Read the paper _What Should Economists Do? _ by James M. Buchanan.
+* His main point is most of the economists are concentrate on the scarce resources, find the equilibrium, and distribution. Buchanan think economist think they should focus on a particular form of human activity, and upon the various institutional arrangements that arise as a result of this form of activity.
 
-* According to Buchanan, most economists are focusing on allocation scarce resouces problem.
+* The word "catallatics" means finding the relationship between human activities and use computational method to solve the problems.
+
+* According to Buchanan, most economists are focusing on allocation scarce resources problem.
 
 * Buchanan thinks economists should focus on the relationship between human activity and end the maximization problem by using the social welfare function. Then economists should use computational methodology to solve the problem. 
 
@@ -41,40 +42,22 @@ abstract: In this article, I want to address the problem of what should computat
 
 
 
-# Introduction
 
-After reading Buchanan's paper about "What should economist do @Buchanan1979, I would like to address the problem of What should computational economist do. Adding computational methodology into economist is the core trend to the viability and the efficiency of economic model. I want to bring up Elinor Ostrom's methodology @boettke2013riding in its research, on the ground and field study, which I believe has significant meaning to computational economic. On the ground and field study methodology should be implemented into computational economic.
+After reading Buchanan's paper about "What should economist do @Buchanan1979, I would like to address the problem of What should computational economist do. Adding computational methodology into economist is the core trend to the viability and the efficiency of economic model. I want to bring up Elinor Ostrom's methodology @boettke2013riding in its research, on the ground and field study, which I believe has significant meaning to computational economic. On the ground and field study methodology should be implemented into computational economic. On the ground and field study is a methodology for researcher and economist to go into the problem to exam whether their previous assumption is reasonable and useable. Economic in different area, field, and country has their own characteristic. It is hard use the same theory to describe the situation of the world. Therefore, the concept of on the ground and field study was raised during the time economist doing research.
 
+In traditional computational economist, they focused on turning the problem into computational way. Their attention is on solve the problem, but not whether the method they use to solve is effective and correct, and not whether it could solve the problem realistic. On the other way, computational economist highly rely on the accuracy of the data. They do could turning the problem into computational problem and solve it, but they do not know whether the result is correct without on the ground and field study. 
 
+At the beginning, Buchanan's paper gives me lots of "philosophy" viewing in current economist situation and what he thinks they should really do. In Buchanan's paper, he brought up the idea of we could end the utility maximization problem with social welfare problem, and turned everything into computational problem, which, personally, means quantify the economic problem @Buchanan1979. It provided us a method to come up with the viable economic model in high efficiency. Economic is a discrete and intangible concept, which could not be collected and could not be put in the lab. Turing economic into computational problem is meaningful not only for solve the program, but also for prove the accuracy and practicability. 
 
-# brief literature review
+Arbitrage is a good example to describe the necessity of computational economist. By theory, we know that the inefficient of market is exist, which means arbitrage is exist. Investor or anyone who could find and use the opportunity could use that to make money, but we could never know how without turning it into computation problem, like delta hedging. From the other aspect, government has the responsibility to protect the investment environment to make it as fair as possible. Inefficient the economic could cause very bad problem. For example, George Soros used the arbitrage to buy put option and short stock in year 1997, which caused an significance effect on Hong Kong economic, and forced China to used almost all its foreign currency reserved. It will be better if they turned it into a computational problem and figured out the probability of this kind of event and the worst condition. I could not say it must be better confidently, but at least, turning it into a computational problem could help government to better regulate the economic environment, provide better investment environment, and protect investors.
 
-*In Buchanan's paper, he brough up the idea of we could end the utility maximization problem with social walfare problem, and turned everything into computational problem, which, personally, means quantify the economic problem @Buchanan1979. It provided us a method to come up with the viable economic model in high efficiency. 
+Computational economist is necessity by using the methodology of on the ground the field study. In Peter Boettke's paper, it presented Elinor Ostrom's adventure and Ostrom's on the ground field study methodology @boettke2013riding. It is the methodology I want to implement into what should computational economist do.
+In his research of police's story, prior to his travel to the target location, economics, which included he already used the data they collected and run regression analysis to come out the conclusions. However, Elinor did not really trusted the result. Therefore, he went to the target location, got the same job as the one in data observation, experienced the different. He ended up getting new information for the data set and his research, which improved their research a lot better. On the ground and field study is better than just stay at the office and brainstorm the possible factors could after the dependent variables. In Donald's paper, he studied deeply the relationship between consumer shopping behavior and price perception @lichtenstein1993price. It is a great field study example of what Buchanan's relationship between human activity. In Robert's paper, he described how applied similar on the ground research method into macroeconomic problem @king1999should.
 
-*In Peter Boettke's paper, it presented Elinor Ostrom's adventure and Ostrom's On the ground field study methodology @boettke2013riding. It is the methodology I want to implement into what should computational economist do. 
+Elinor's example is great example to describe what the difference between regular research is used to solve the computational problem and the question of "Does it really work?". 
 
-*In Donald's paper, he studied deeply the relationship between consumer shopping behavior and price perception @lichtenstein1993price. It is a great field study example of what Buchanan's relationship between human activity. 
+Combining on the ground and field study into computational economic is what computational economist should do. In that way, we could not only turning the problem into computational problem, but also exam the theory to makes sure the accuracy and useable of the underlined theory.
 
-*In Robert's paper, he described how applied similar on the ground research method into macroeconomic problem @king1999should.
-
-
-# Brief outline of proposal 
-
-*Brief summary of literature review
-
-*What computational economist is doing.
-
-*Benefit of methodology of on the ground and field study 
-    + define on the ground and field study 
-    + application of on the ground and field study 
-
-*How to apply on the ground and field study into computational economist and why it is meaningful.
-    + personally, shortage of traditional computational economis 
-    + how on the ground research and field study could improve it 
-
-*Brief example
-
-*Conclusion
 
 
 <!--
